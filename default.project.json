@@ -1,0 +1,17 @@
+{
+  "name": "TestEZ Playground",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      },
+      "Unorganized.spec": {
+        "$path": "src/unorganized"
+      },
+      "Organized": {
+        "$path": "src/organized"
+      }
+    }
+  }
+}
